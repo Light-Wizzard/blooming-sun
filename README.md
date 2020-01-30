@@ -15,6 +15,12 @@ You can see a vertical line, and a hard line on the left, not what I wanted, and
 
 I started this project using a 66" Projector TV, it looked good on it, but after upgrading to 4K, it looks ugly, see my attemps at the link below, and also note that I am not using this Blender Project, but another one, where I tried to mask out the hard line, and add stars, on my projector I did not see the mask, in 4K I can.
 
+This is what it looks like with a Mask so far.
+
+![alt text](https://github.com/Light-Wizzard/blooming-sun/blob/master/sun-light-2012-0001.png "Sun with Mask edge")
+ 	
+
+
 https://www.youtube.com/watch?v=YGoRP6Axysk&list=PLR0QoztQVGtiHcwhVtd9i7qfvNkVm3m6c
 
 I have looked at using graphic tools like Image Magic, and GIMP, to alter the images adding the bloom, but ran into the same issue, I am trying to extend the bloom, so I have to know where it is at, and then grab maybe 10 pixels, and blur them side ways, and make it tapper off to look like the real bloom would have worked, if NASA just zoomed out a bit, to get the whole bloom.
